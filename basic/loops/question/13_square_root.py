@@ -3,28 +3,10 @@
 
 def squareroot(n):
   b = 0
+  # write code here....
   
     
-import unittest
 
-class Test(unittest.TestCase):
-    def testsum1(self):
-        actual = squareroot (123)
-        expected = 6
-        self.assertEqual(actual, expected)
-    def testsum2(self):
-        actual = squareroot(123456)
-        expected = 720
-        self.assertEqual(actual, expected)
-    def testsum3(self):
-        actual = squareroot (12)
-        expected = 2
-        self.assertEqual(actual, expected)
-    def testsum4(self):
-        actual = squareroot (1)
-        expected = 1
-        self.assertEqual(actual, expected)
-unittest.main(verbosity=2)
 
 import unittest
 
