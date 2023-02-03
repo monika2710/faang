@@ -3,7 +3,7 @@
 
 def squareroot(n):
   b = 0
-  # write code here....
+  # write code here..
   
     
 
